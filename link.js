@@ -1,4 +1,4 @@
 
 const modelName = "jaccisa"
 
-const link = "https://cutt.ly/TMGtXP2"
+const link = "https://ca.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbXRiQjZlb0p2UnJWYmZyaHUyNUFNZ3Iwd3JEd3xBQ3Jtc0ttc2hRTXhBaVVCb3hiZU1DSTllaVRqMkVjUV9sa0JZT2xlems1bnplRjhMWkIzSU9adHR6UVRLekFrY091ODlmOGRvUDlQOUwweXVONG9WU3V1amJFUXZfUnhJU2tzcDVWOXJ2THJUV2lYZFB0WVZGcw&q=https://vk.sv/HYl5kh&html_redirect=1"
